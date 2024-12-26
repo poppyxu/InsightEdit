@@ -13,7 +13,6 @@ Then, to further inject the rich image information, we introduce a two-stream br
 <img src="imgs/method.png" alt="teaser" width="100%">
 
 ## News
-- [05/12/2024] ⏰ I'm trying to re-organize the corresponding code, materials and dataset as soon as I can.
 - [26/11/2024] 🎉 The paper appears on Arxiv.
 
 ## Citation
