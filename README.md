@@ -4,6 +4,8 @@ This repository contains the official implementaion of our InsightEdit. In this 
 Then, to further inject the rich image information, we introduce a two-stream bridging mechanism utilizing both the textual and visual features reasoned by the powerful Multimodal Large Language Models (MLLM) to guide the image editing process more precisely. 
 
 ### Dataset Construction Pipeline
+The reference code for the dataset construction pipeline is in the [data_processing.md](./data_processing/data_processing.md).
+
 <img src="imgs/data_construction.jpg" alt="teaser" width="100%">
 
 ### Dataset Examples
@@ -13,6 +15,7 @@ Then, to further inject the rich image information, we introduce a two-stream br
 <img src="imgs/method.png" alt="teaser" width="100%">
 
 ## News
+- [26/02/2025] 🎉 The data processing code is released.
 - [26/11/2024] 🎉 The paper appears on Arxiv.
 
 ## Citation
