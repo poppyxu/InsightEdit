@@ -1,0 +1,40 @@
+{
+    "object_list": [
+        {
+            "category": "Person",
+            "obj_simple_caption": "Man in his 30s",
+            "obj_detailed_caption": "An adult male in his 30s, having light skin and a beard, dressed in a blue t-shirt, dark jeans, a red bandana around his neck, and sunglasses, is playing an acoustic guitar on a large rock."
+        },
+        {
+            "category": "Clothing",
+            "obj_simple_caption": "Blue T-shirt",
+            "obj_detailed_caption": "A shirt worn by the man, typically made of cotton, featuring a blue color."
+        },
+        {
+            "category": "Accessories",
+            "obj_simple_caption": "Red Bandana",
+            "obj_detailed_caption": "A red bandana wrapped around the man's neck as an accessory, often used for fashion or as a personal style element."
+        },
+        {
+            "category": "Accessories",
+            "obj_simple_caption": "Sunglasses",
+            "obj_detailed_caption": "A pair of eyewear worn by the man, typically used for protection from sunlight or as a fashion accessory."
+        },
+        {
+            "category": "Clothing",
+            "obj_simple_caption": "Dark Jeans",
+            "obj_detailed_caption": "A pair of dark-colored jeans worn by the man, providing comfort and fashion."
+        },
+        {
+            "category": "Tattoos",
+            "obj_simple_caption": "Tattoos on Arms",
+            "obj_detailed_caption": "Visible body art on the man's arms, which might include designs, symbols, or portraits."
+        },
+        {
+            "category": "Musical Instrument",
+            "obj_simple_caption": "Acoustic Guitar",
+            "obj_detailed_caption": "A guitar used by the man for playing, characterized by its sound being produced by the vibrations of its strings, without the use of an electric circuit."
+        }
+    ],
+    "img_caption": "A picturesque wide-angle photograph of a man in his 30s, sitting on a large rock and playing an acoustic guitar, set against a stunning natural landscape with lush greenery, a river, and mountains in the background. The image highlights the man's tattoos, his casual attire, and captures the serene atmosphere of his surroundings."
+}
